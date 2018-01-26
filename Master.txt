@@ -1,4 +1,4 @@
 
 <Version: 1.0.1>
 /data/Map039.json https://github.com/EgamesEroge/UpdaterForProject/blob/master/Map039.json
-<End of Version
+<End of Version>
