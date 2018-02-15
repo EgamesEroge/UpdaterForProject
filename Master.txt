@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 1.02>
-/movies/movies.zip https://drive.google.com/uc?authuser=0&id=16qayJt_jkrLvt2mUGPNJX3C-9sTmUjcX&export=download
+/www/movies/movies.zip https://drive.google.com/uc?authuser=0&id=16qayJt_jkrLvt2mUGPNJX3C-9sTmUjcX&export=download
 <End of Version>
