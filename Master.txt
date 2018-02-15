@@ -11,6 +11,6 @@
 /www/data/Map011.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map011.json
 <End of Version>
 
-<Version: 1.04>
+<Version: 1.05>
 /www/data/Map011.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map011.json
 <End of Version>
