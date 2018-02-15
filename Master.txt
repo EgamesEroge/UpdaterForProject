@@ -8,5 +8,5 @@
 <End of Version>
 
 <Version: 1.03>
-/www/data/compressed/Map011.json https://drive.google.com/uc?authuser=0&id=1KSwiNkOUWpRXBsvlXFc3Sn9PVdRZKmLM&export=download
+/www/data/Map011.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map011.json
 <End of Version>
