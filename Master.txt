@@ -1,1 +1,6 @@
 
+<Version: 1.01>
+/save/file1.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/file1.rpgsave
+/data/compressed/Map037.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map037.json
+/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
+<End of Version>
