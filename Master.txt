@@ -16,4 +16,5 @@
 
 <Version: 1.04>
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
+/save/file2.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/file2.rpgsave
 <End of Version>
