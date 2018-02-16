@@ -6,9 +6,3 @@
 <Version: 1.02>
 /movies/EGATest.webm https://drive.google.com/uc?authuser=0&id=1p5fNZQpz7khxOfozmOydkuHZbdnYFEWg&export=download
 <End of Version>
-
-<Version: 1.03>
-/data/Map011.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map011.json
-<End of Version>
-
-
