@@ -14,3 +14,7 @@
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 /data/compressed/Map045.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map045.json
 <End of Version>
+
+<Version: 1.04>
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
+<End of Version>
