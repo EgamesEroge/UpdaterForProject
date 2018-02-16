@@ -15,5 +15,5 @@
 <End of Version>
 
 <Version: 1.04>
-/data/compressed/CommonEvents.json https://drive.google.com/uc?authuser=0&id=1wFGP7fXD8waWaeiFg4lRK8K-Qu7bieAt&export=download
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
