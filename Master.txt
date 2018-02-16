@@ -4,3 +4,8 @@
 /data/compressed/Map037.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map037.json
 /data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
 <End of Version>
+
+<Version: 1.02>
+/save/gloval.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/global.rpgsave
+/save/config.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/config.rpgsave
+<End of Version>
