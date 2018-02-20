@@ -3,3 +3,7 @@
 <Version: 1.06>
 /data/compressed/MapInfos.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/MapInfos.json
 <End of Version>
+
+<Version: 1.06.1>
+/data/compressed/Map002.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map002.json
+<End of Version>
