@@ -1,2 +1,5 @@
 
 
+<Version: 1.06>
+/data/compressed/MapInfos.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/MapInfos.json
+<End of Version>
