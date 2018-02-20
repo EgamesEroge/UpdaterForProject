@@ -1,24 +1,2 @@
 
-<Version: 1.01>
-/save/file1.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/file1.rpgsave
-/data/compressed/Map037.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map037.json
-/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
-<End of Version>
 
-<Version: 1.02>
-/save/global.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/global.rpgsave
-/save/config.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/config.rpgsave
-<End of Version>
-
-<Version: 1.03>
-/data/compressed/Map045.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map045.json
-<End of Version>
-
-<Version: 1.04>
-/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
-/save/file2.rpgsave https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/file2.rpgsave
-<End of Version>
-
-<Version: 1.05>
-/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
-<End of Version>
