@@ -22,3 +22,7 @@
 <Version: 1.05>
 /js/plugins.js https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/plugins.js
 <End of Version>
+
+<Version: 1.06>
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
+<End of Version>
