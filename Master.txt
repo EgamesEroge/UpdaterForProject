@@ -7,3 +7,7 @@
 <Version: 1.02>
 /data/compressed/States.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/States.json
 <End of Version>
+
+<Version: 1.03>
+/data/compressed/Map046.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map046.json
+<End of Version>
