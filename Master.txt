@@ -18,3 +18,7 @@
 /data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
 /data/compressed/Map004.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json
 <End of Version>
+
+<Version: 1.05>
+/js/plugins.js https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/plugins.js
+<End of Version>
