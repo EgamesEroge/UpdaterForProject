@@ -12,7 +12,7 @@
 /data/compressed/Map046.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map046.json
 <End of Version>
 
-<Version: 1.10>
+<Version: 1.04>
 /data/compressed/Map037.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map037.json
 /data/compressed/Map038.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map038.json
 /data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
