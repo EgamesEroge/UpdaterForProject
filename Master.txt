@@ -43,4 +43,5 @@
 <End of Version>
 
 <Version: 1.08>
+/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
 <End of Version>
