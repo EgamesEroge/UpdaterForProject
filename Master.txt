@@ -41,3 +41,6 @@
 /data/compressed/Map044.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map044.json
 /data/compressed/Map030.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map030.json
 <End of Version>
+
+<Version: 1.08>
+<End of Version>
