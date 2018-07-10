@@ -1,4 +1,4 @@
 
 <Version: 1.00>
-http://download1484.mediafire.com/fgffsz01jyog/89wsw8u3yqm263g/Sin+nombre.png img/Sin nombre.png
+/img/Sin nombre.png http://download1484.mediafire.com/fgffsz01jyog/89wsw8u3yqm263g/Sin+nombre.png 
 <End of Version>
