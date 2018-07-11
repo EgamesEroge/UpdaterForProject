@@ -9,3 +9,6 @@
 /audio/se/Magic4.rpgmvm http://download1593.mediafire.com/y8la9ssisu8g/ffuveyo33d32le1/Magic4.rpgmvm
 /audio/se/Magic4.rpgmvo http://download938.mediafire.com/qkg2062o931g/gkod48fat0q54tf/Magic4.rpgmvo
 <End of Version>
+<Version: 1.03>
+/data/compressed/Map011.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map011.json
+<End of Version>
