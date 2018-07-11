@@ -2,3 +2,6 @@
 <Version: 1.00>
 /img/Sin nombre.png http://download1484.mediafire.com/fgffsz01jyog/89wsw8u3yqm263g/Sin+nombre.png 
 <End of Version>
+<Version: 1.01>
+/data/compressed/Actors.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Actors.json
+<End of Version>
