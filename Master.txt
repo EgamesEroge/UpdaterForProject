@@ -15,3 +15,6 @@
 <Version: 1.04>
 /js/plugins.js http://download1485.mediafire.com/p8ybcuj84wtg/o1g777cpn3wfzav/plugins.js
 <End of Version>
+<Version: 1.05>
+/js/plugins/MOG_BattleCry.js http://download1350.mediafire.com/bypxzr4wzr7g/qr3sdvaee7aad21/MOG_BattleCry.js
+<End of Version>
