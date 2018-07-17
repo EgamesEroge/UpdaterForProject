@@ -1,6 +1,6 @@
 
-<Version: 1.01>
-/data/compressed/Map039.json http://download1507.mediafire.com/3m0mhv7rzkxg/tdm4xivbhhau4u6/Map039.json
-/data/compressed/Actors.json http://download1480.mediafire.com/o6dr5eporogg/85bw6atxww13dy0/Actors.json
-/data/compressed/CommonEvents.json http://download1491.mediafire.com/rr4lald5cyig/re5s4sc3tp2aory/CommonEvents.json
+<Version: 1.02>
+/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
+/data/compressed/Actors.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Actors.json
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
