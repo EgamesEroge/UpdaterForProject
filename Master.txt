@@ -5,11 +5,3 @@
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
 
-<Version: 1.1>
-/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
-/data/compressed/Map096.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map096.json
-/data/compressed/Map098.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map098.json
-/data/compressed/Map110.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map110.json
-/img/fasttravel/stages/Casa.png https://doc-0s-9g-docs.googleusercontent.com/docs/securesc/c7d5bv5dlc5upah7sjflkln4a9593trk/4krkkmdfa4f00i0sm04pvl82irkd0mln/1532181600000/18326868308374150906/18326868308374150906/1aofWvFl5fOzEp8DFaK1e7i9ljgnsDUJd?e=download&nonce=ts9n8dlagqa7o&user=18326868308374150906&hash=s3pr3iv903t98tlco7jiptqc2f1tr4ei
-/img/system/Loading.png https://doc-0o-9g-docs.googleusercontent.com/docs/securesc/c7d5bv5dlc5upah7sjflkln4a9593trk/esu8od11b66mb1fpu9ph3a0lvdunqnuf/1532181600000/18326868308374150906/18326868308374150906/1zpXpgHd_iv_I2rJKL5gVVXHiiUTvjJjy?e=download
-<End of Version>
