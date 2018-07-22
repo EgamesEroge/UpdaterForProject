@@ -5,3 +5,10 @@
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
 
+<Version: 1.11>
+/data/compressed/Map096.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map096.json
+/data/compressed/Map098.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map098.json
+/data/compressed/Map0110.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map110.json
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
+<End of Version>
+
