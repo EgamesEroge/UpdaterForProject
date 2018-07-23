@@ -12,15 +12,3 @@
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
 
-<Version: 1.12>
-/data/compressed/Map038.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map038.json
-/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
-/data/compressed/Map0106.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map106.json
-/data/compressed/Map090.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map090.json
-/data/compressed/Enemies.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Enemies.json
-/data/compressed/Troops.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Troops.json
-/data/compressed/MapInfos.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/MapInfos.json
-<End of Version>
-
-
-
