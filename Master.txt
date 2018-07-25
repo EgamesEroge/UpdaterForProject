@@ -21,3 +21,10 @@
 /data/compressed/Troops.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Troops.json
 /data/compressed/MapInfos.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/MapInfos.json
 <End of Version>
+
+<Version: 1.13>
+/data/compressed/Map090.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map090.json
+/data/compressed/Map105.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map105.json
+/data/compressed/Map110.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map110.json
+/data/compressed/Map053.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map053.json
+<End of Version>
