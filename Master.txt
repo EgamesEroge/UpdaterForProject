@@ -23,6 +23,18 @@
 /data/compressed/Enemies.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Enemies.json
 <End of Version>
 
+<Version: 2.2>
+/img/overlays/shadows/shadow27.png https://i.imgur.com/qigghoB.png
+/img/overlays/lights/light27.png https://i.imgur.com/a7wq6BW.png
+/img/parallaxes/!ground27.png https://i.imgur.com/Zm7YLm7.jpg
+/data/compressed/Enemies.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Enemies.json
+/data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
+/data/compressed/Items.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Items.json
+/data/compressed/Map027.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map027.json	
+/data/compressed/Map050.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map050.json	
+/data/compressed/Troops.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Troops.json
+/data/compressed/Weapons.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Weapons.json
+<End of Version>
 
 
 
