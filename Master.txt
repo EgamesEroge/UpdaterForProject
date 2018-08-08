@@ -38,6 +38,7 @@
 
 <Version: 2.21>
 /data/compressed/Map038.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map038.json
+/data/compressed/Map039.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map039.json
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
 
