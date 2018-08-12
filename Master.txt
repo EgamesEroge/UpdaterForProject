@@ -42,6 +42,11 @@
 /data/compressed/CommonEvents.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/CommonEvents.json
 <End of Version>
 
+<Version: 2.22>
+/audio/se/Japanese school bell sound.m4a https://github.com/EgamesEroge/UpdaterForProject/blob/master/Japanese%20school%20bell%20sound.m4a?raw=true
+/audio/se/Japanese school bell sound.ogg https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Japanese%20school%20bell%20sound.ogg
+<End of Version>
+
 
 
 
