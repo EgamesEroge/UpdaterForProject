@@ -45,6 +45,7 @@
 
 <Version: 2.22>
 /data/compressed/Map004.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json
+/data/compressed/Map004.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map112.json
 <End of Version>
 
 
