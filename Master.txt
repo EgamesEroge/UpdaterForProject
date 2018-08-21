@@ -54,6 +54,14 @@
 /data/compressed/Map054.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map054.json
 <End of Version>
 
+<Version: 2.3>
+/data/compressed/Map052.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map052.json
+/data/compressed/Map062.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map062.json
+/data/compressed/Map063.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map063.json
+/data/compressed/Map064.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map064.json
+/data/compressed/System.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/System.json
+<End of Version>
+
 
 
 
