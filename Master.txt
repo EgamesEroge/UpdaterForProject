@@ -62,6 +62,9 @@
 /data/compressed/System.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/System.json
 <End of Version>
 
+<Version: 2.31>
+/img/bosshp/Face_18.png https://i.imgur.com/cRN4P5Q.png
+<End of Version>
 
 
 
