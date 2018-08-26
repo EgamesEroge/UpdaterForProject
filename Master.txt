@@ -66,6 +66,9 @@
 /img/bosshp/Face_18.png https://i.imgur.com/cRN4P5Q.png
 <End of Version>
 
+<Version: 2.32>
+/data/compressed/Map002.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map002.json	
+<End of Version>
 
 
 
