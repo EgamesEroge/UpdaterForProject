@@ -70,6 +70,11 @@
 /data/compressed/Map002.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map002.json	
 <End of Version>
 
+<Version: 2.33>
+/data/compressed/Map004.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json	
+<End of Version>
+
+
 
 
 
