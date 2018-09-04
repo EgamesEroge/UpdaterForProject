@@ -80,6 +80,14 @@
 /data/compressed/Map004.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json
 <End of Version>
 
+<Versi: 2.35>
+/img/weapons/fancy.png https://i.imgur.com/Ct3q5cH.png
+/img/weapons/spectral.png https://i.imgur.com/pGlqQoa.png
+/data/compressed/Map119.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map003.json
+/data/compressed/Map120.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json
+/data/compressed/Map121.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map004.json
+<End of Version>
+
 
 
 
