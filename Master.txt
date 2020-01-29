@@ -87,7 +87,11 @@
 /data/compressed/Map063.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map063.json
 <End of Version>
 
-<Versi: 2.36>
+<Version: 2.36>
+/data/compressed/Enemies.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Enemies.json
+<End of Version>
+
+<Versi: 2.37>
 /img/weapons/fancy.png https://i.imgur.com/Ct3q5cH.png
 /img/weapons/spectral.png https://i.imgur.com/pGlqQoa.png
 /data/compressed/Map119.json https://raw.githubusercontent.com/EgamesEroge/UpdaterForProject/master/Map003.json
